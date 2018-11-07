@@ -9,3 +9,11 @@
 # roadmap
 - implement websocket on nodejs (https://socket.io/get-started/chat/)
 - learn npm
+- elasticsearch
+- redis
+- logstash
+- es6
+- semver
+- mocha + sinon + chai 
+- promise
+
