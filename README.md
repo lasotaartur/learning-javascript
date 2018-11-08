@@ -6,6 +6,9 @@
 - https://fsgeek.pl/post/seria-es6-obiekty-i-klasy/
 - https://geek.justjoin.it/napisalem-aplikacje-vue-reactcie-zobaczie-roznice/
 
+# books
+- Node.js w akcji - Mike Cantelon
+
 # roadmap
 - implement websocket on nodejs (https://socket.io/get-started/chat/)
 - learn npm
