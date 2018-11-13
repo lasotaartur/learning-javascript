@@ -5,6 +5,7 @@
 # other links
 - https://fsgeek.pl/post/seria-es6-obiekty-i-klasy/
 - https://geek.justjoin.it/napisalem-aplikacje-vue-reactcie-zobaczie-roznice/
+- https://devenv.pl/kategoria/devtech/javascript/
 
 # books
 - Node.js w akcji - Mike Cantelon
