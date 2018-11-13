@@ -7,6 +7,7 @@
 - https://geek.justjoin.it/napisalem-aplikacje-vue-reactcie-zobaczie-roznice/
 - https://devenv.pl/kategoria/devtech/javascript/
 
+
 # books
 - Node.js w akcji - Mike Cantelon
 
@@ -16,7 +17,7 @@
 - elasticsearch
 - redis
 - logstash
-- es6
+- es6 - https://www.youtube.com/watch?v=ZVJpChYYL4Q
 - semver
 - mocha + sinon + chai 
 - promise
